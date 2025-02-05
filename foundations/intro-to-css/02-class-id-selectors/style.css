@@ -1,12 +1,12 @@
 .red {
-    background-color:#cf6464;
+    background-color:#ffa7a7;
     font-size: 18px;
-    font-family: Verdana, DejaVu Sans, Tahoma, sans-serif;
+    font-family: Verdana, "DejaVu Sans", Tahoma, sans-serif;
 }
 
 #alone{
     font-size: 36px;
-    color:#2c2cf1;
+    color:#0000ff;
 }
 
 .double{
@@ -14,6 +14,6 @@
 }
 
 #single{
-    background-color:#57a757;
+    background-color:#80ff80;
     font-weight: bold;
 }
