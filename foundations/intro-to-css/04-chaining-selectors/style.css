@@ -3,3 +3,9 @@
 proportioned{
     width: 300px;
 }
+
+.avatar, 
+distorted{
+    width: 200px;
+    height: 400px;
+}
